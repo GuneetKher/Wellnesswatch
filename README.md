@@ -13,7 +13,7 @@ This is the code repository for the term project by the team DataSigns.
 The data used for the tasks has been taken from reddit. It has been pulled from subreddits pertaining to mental health (r/suicidewatch,r/anxiety,r/depression,r/schizophrenia etc) as well as data from subreddits not pertaining to mental health (r/sports, r/technology, r/conspiracy, r/jokes etc) <br>
 Overall, our data set contains around 600k datapoints and is not present in this repo due to size limitations. Find data <a href="https://drive.google.com/drive/folders/1dmHBVD-hlsQ2uSz2JGKLZKfxaOpMJ8Wr?usp=sharing">here</a> and <a href="https://drive.google.com/drive/folders/12rSc5e6iJ1loQiUgF05qS72hst8zV_l6?usp=sharing">here</a>.
 
-Data is pulled using scripts built to utilise the PushShiftAPI. Learn how it works <a href="https://github.sfu.ca/gka89/DataSIGNS/blob/main/Reddit_readme.md">here</a>.
+Data is pulled using scripts built to utilise the PushShiftAPI. Learn how it works <a href="https://github.com/GuneetKher/Wellnesswatch/blob/main/Reddit_readme.md">here</a>.
 
 ### Deployed Models 
 
